@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry id="81237">
+    <formGrp>
+        <form primary="yes">
+            <orth n="0">bondegutt</orth>
+            <pos>subst</pos>
+            <inflCode type="bob">m1</inflCode>
+            <inflCode type="suff">-en</inflCode>
+            <inflPar>
+                <inflSeq form="0-0">bondegutten</inflSeq>
+                <inflSeq form="0-1">bondegutter</inflSeq>
+                <inflSeq form="0-2">bondeguttene</inflSeq>
+            </inflPar>
+        </form>
+    </formGrp>
+    <senseGrp>
+        <sense>
+            <trans>parasztlegény</trans>
+        </sense>
+    </senseGrp>
+</entry>
+

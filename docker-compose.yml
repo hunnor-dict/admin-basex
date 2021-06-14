@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+
+  basex:
+    build: .
+    ports:
+      - "1984:1984"
+      - "8984:8984"
+    volumes:
+      - "./app:/srv/basex/webapp"
+      - "./queries:/opt/hunnor-dict/queries"

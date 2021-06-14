@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry id="15006">
+    <formGrp>
+        <form primary="yes">
+            <orth n="1">ferge</orth>
+            <pos>subst</pos>
+            <inflCode type="bob">f1:m1</inflCode>
+            <inflCode type="suff">-en/-a</inflCode>
+            <inflPar>
+                <inflSeq form="0-0">fergen</inflSeq>
+                <inflSeq form="0-1">ferger</inflSeq>
+                <inflSeq form="0-2">fergene</inflSeq>
+            </inflPar>
+            <inflPar>
+                <inflSeq form="1-0">ferga</inflSeq>
+                <inflSeq form="1-1">ferger</inflSeq>
+                <inflSeq form="1-2">fergene</inflSeq>
+            </inflPar>
+        </form>
+        <form primary="no">
+            <orth n="1">ferje</orth>
+            <inflCode type="bob">f1:m1</inflCode>
+            <inflCode type="suff">-en/-a</inflCode>
+            <inflPar>
+                <inflSeq form="0-0">ferjen</inflSeq>
+                <inflSeq form="0-1">ferjer</inflSeq>
+                <inflSeq form="0-2">ferjene</inflSeq>
+            </inflPar>
+            <inflPar>
+                <inflSeq form="1-0">ferja</inflSeq>
+                <inflSeq form="1-1">ferjer</inflSeq>
+                <inflSeq form="1-2">ferjene</inflSeq>
+            </inflPar>
+        </form>
+    </formGrp>
+    <senseGrp>
+        <sense>
+            <trans>komp</trans>
+        </sense>
+    </senseGrp>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry id="7454">
+    <formGrp>
+        <form primary="yes">
+            <orth n="0">bondegård</orth>
+            <pos>subst</pos>
+            <inflCode type="bob">m1</inflCode>
+            <inflCode type="suff">-en</inflCode>
+            <inflPar>
+                <inflSeq form="0-0">bondegården</inflSeq>
+                <inflSeq form="0-1">bondegårder</inflSeq>
+                <inflSeq form="0-2">bondegårdene</inflSeq>
+            </inflPar>
+        </form>
+        <form primary="no">
+            <orth n="0">bondegard</orth>
+            <inflCode type="bob">m1</inflCode>
+            <inflCode type="suff">-en</inflCode>
+            <inflPar>
+                <inflSeq form="0-0">bondegarden</inflSeq>
+                <inflSeq form="0-1">bondegarder</inflSeq>
+                <inflSeq form="0-2">bondegardene</inflSeq>
+            </inflPar>
+        </form>
+    </formGrp>
+    <senseGrp>
+        <sense>
+            <trans>tanya</trans>
+            <trans>gazdaság</trans>
+            <trans>parasztgazdaság</trans>
+            <trans>farm</trans>
+            <trans>farmergazdaság</trans>
+        </sense>
+    </senseGrp>
+</entry>

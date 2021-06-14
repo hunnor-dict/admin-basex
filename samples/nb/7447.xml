@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry id="7447">
+    <formGrp>
+        <form primary="yes">
+            <orth n="0">bonde</orth>
+            <pos>subst</pos>
+            <inflPar>
+                <inflSeq form="0-0">bonden</inflSeq>
+                <inflSeq form="0-1">bønder</inflSeq>
+                <inflSeq form="0-2">bøndene</inflSeq>
+            </inflPar>
+        </form>
+    </formGrp>
+    <senseGrp>
+        <sense>
+            <lbl>gårdbruker</lbl>
+            <trans>földművelő</trans>
+            <trans>gazda</trans>
+            <trans>gazdálkodó</trans>
+            <trans>paraszt</trans>
+            <trans>(mezőgazdasági) termelő</trans>
+            <eg>
+                <q>melkebonde</q>
+                <trans>tejtermelő</trans>
+            </eg>
+        </sense>
+        <sense>
+            <lbl>sjakkbrikke</lbl>
+            <trans>gyalog</trans>
+            <trans>paraszt</trans>
+        </sense>
+    </senseGrp>
+</entry>
